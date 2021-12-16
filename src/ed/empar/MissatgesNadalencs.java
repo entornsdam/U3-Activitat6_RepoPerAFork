@@ -207,7 +207,8 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila5PC2() {
-
+             
+                   System.out.println("Pablo Sanjuan Muñoz et desitja un bon nadal i un pròsper any nou");
 	}
 
 	private static void AlumneFila5PC3() {
