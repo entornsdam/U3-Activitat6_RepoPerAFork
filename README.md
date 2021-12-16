@@ -114,7 +114,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila5 PC2:
-
+S'ha insertat la felicitacio de Pablo Sanjuan
 
 #### AlumneFila5 PC3:
 
