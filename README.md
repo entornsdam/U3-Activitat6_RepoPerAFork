@@ -39,7 +39,7 @@ Empar ha afegit el mètode que desitja: "Bon Nadal i Feliç Any Nou.  Pau i Salu
 
 
 #### AlumneFila1 PC2:
-
+                    Fatima Esteve Cano. He añadit una linea en el README.md.
 
 #### AlumneFila1 PC3:
 
