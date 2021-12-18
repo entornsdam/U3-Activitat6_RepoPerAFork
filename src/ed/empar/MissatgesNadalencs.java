@@ -107,7 +107,11 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila1PC2() {
-
+		System.out.println("***************************************************");
+		System.out.println("Fatima Esteve Cano");
+		System.out.println("Vos desitja un Bon Nadal i un Feliç Any Nou a tots.");
+		System.out.println("***************************************************");
+	
 	}
 
 	private static void AlumneFila1PC3() {
