@@ -103,7 +103,7 @@ public class MissatgesNadalencs {
 
 	// FILA 1
 	private static void AlumneFila1PC1() {
-
+	System.out.println("Hola, sóc Marc Botella. Bon nadal, i que es compleixin tots els vostres desitjos" );
 	}
 
 	private static void AlumneFila1PC2() {
