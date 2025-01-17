@@ -81,7 +81,8 @@ public class MissatgesNadalencs {
 		AlumneFila5PC5();
 
 		AlumneFila5PC6();
-
+		
+		AlumneJoelGustavoPascualMartinez();
 	}
 
 	// NO modifiques este métode
@@ -224,6 +225,9 @@ public class MissatgesNadalencs {
 	private static void AlumneFila5PC6() {
 		
 	}
-
+	
+	private static void AlumneJoelGustavoPascualMartinez() {
+		System.out.println("Jo sóc Joel Gustavo Pascual Martinez, et desitjo un Feliç Any Nou i molts èxits!");
+	}
 	
 }
