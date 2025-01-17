@@ -57,7 +57,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila2 PC2:
-
+Añadido nombre Pedro Escobar
 
 #### AlumneFila2 PC3:
 
