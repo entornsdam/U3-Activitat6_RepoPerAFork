@@ -36,7 +36,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila1 PC1: 
-
+He implementado el método de la Fila 1 PC 1 con mi felicitación
 
 #### AlumneFila1 PC2:
 
