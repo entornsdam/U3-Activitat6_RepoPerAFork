@@ -57,6 +57,8 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila2 PC2:
+Juan Jose Vivas
+Tasca: He creat el mètode java amb la felicitació.
 
 
 #### AlumneFila2 PC3:

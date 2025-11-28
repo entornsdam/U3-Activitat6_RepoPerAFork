@@ -33,7 +33,7 @@ public class MissatgesNadalencs {
 		AlumneFila2PC1();
 
 		AlumneFila2PC2();
-
+		
 		AlumneFila2PC3();
 
 		AlumneFila2PC4();
@@ -131,7 +131,9 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila2PC2() {
-
+		
+		    System.out.println("Sóc Juan Jose: Feliç Any Nou i que aprovem tot!");
+		
 	}
 
 	private static void AlumneFila2PC3() {
