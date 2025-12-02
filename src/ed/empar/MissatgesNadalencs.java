@@ -164,6 +164,9 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila3PC4() {
+System.out.println("Lucas Soler");
+System.out.println("Feliz año nuevo");
+System.out.println("Sacarme el curso");
 
 	}
 

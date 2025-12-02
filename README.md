@@ -101,7 +101,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila4 PC4:
-
+he hecho el fork,luego he clonado el repositorio a una carpeta en local,he creado una rama y he entrado a ella ,he modificado el java y por ultimo lo he subido
 
 #### AlumneFila4 PC5:
 
