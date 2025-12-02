@@ -189,6 +189,12 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila4PC4() {
+		System.out.println("====================================");
+		System.out.println("Hola, sóc Ivan l'alumne de ED");
+		System.out.println(" FELIÇ ANY NOU !!!!!!");
+		System.out.println(" Salut i Pau per a tots.");
+		System.out.println("====================================");
+		System.out.println();
 
 	}
 
@@ -214,6 +220,7 @@ public class MissatgesNadalencs {
 	}
 
 	private static void AlumneFila5PC4() {
+		
 
 	}
 
