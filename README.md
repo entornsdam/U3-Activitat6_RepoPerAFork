@@ -73,6 +73,7 @@ Empar ha afegit el mètode que desitja: "Feliç Any Nou.  Pau i Salut per a tots
 
 
 #### AlumneFila3 PC1:
+He añadido mi nombre y he puesto un mensaje en el que felicita las navidades a todo el mundo.
 
 
 #### AlumneFila3 PC2:
